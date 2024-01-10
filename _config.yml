@@ -49,6 +49,5 @@ defaults:
 
 header_pages:
   - archive.md
-  - tags.md
  
 
