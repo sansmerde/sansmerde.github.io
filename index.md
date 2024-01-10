@@ -6,4 +6,4 @@ texts on social sciences methodology, epistemology, knowledge politics, anti-phi
 
 in english и на российском языке
 
-сырые тексты, черновики и мемы сначала появляются в [телеграм-канале](https://t.me/sans_merde)
+сырые тексты сначала появляются в [телеграм-канале](https://t.me/sans_merde)
