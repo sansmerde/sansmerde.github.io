@@ -1,5 +1,5 @@
-## **sans merde / no shit / без говна**
-texts on social sciences: epistemology, methodology, politics and activism
+### **sans merde / no shit / без говна**
+texts on social sciences methodology, epistemology, knowledge politics, anti-philosophy, and anti-authoritarian/anti-fascist activism
 
 in english и на российском языке
 
