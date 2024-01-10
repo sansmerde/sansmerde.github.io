@@ -14,14 +14,14 @@ twitter_username: "liya_lift"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
-<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
 
 kramdown:
   syntax_highlighter_opts:
