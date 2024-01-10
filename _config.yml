@@ -20,11 +20,11 @@ twitter_username: "liya_lift"
 #########################################################################################
 theme: "minima"
 
-fonts:
+#fonts:
 
- primary: Roboto Slab
+ #primary: Roboto Slab
 
- secondary: Helvetica
+ #secondary: Helvetica
 
 rss: rss
 
