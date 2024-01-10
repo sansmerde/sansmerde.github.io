@@ -1,13 +1,13 @@
 title: "sans merde"
 #author: "Default Author Name"
-description: "sans merde / no shit / без говна"
-description2: "texts on social science - epistemology, methodology, politics and activism"
-description3: "in english, на российском языке" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+#description: "sans merde / no shit / без говна"
+description2: "texts on social sciences - epistemology, methodology, politics and activism"
+#description3: "in english, на российском языке" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "sans_merde@proton.me"
-#twitter_username: "twitteruser"
+twitter_username: "liya_lift"
 #github_username: "githubuser"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
