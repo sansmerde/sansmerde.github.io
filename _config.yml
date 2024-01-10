@@ -20,8 +20,7 @@ twitter_username: "liya_lift"
 #########################################################################################
 theme: "minima"
 
-#rss: rss
-<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+rss: rss
 
 kramdown:
   syntax_highlighter_opts:
