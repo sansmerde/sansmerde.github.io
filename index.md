@@ -8,5 +8,3 @@ texts on social sciences methodology, epistemology, knowledge politics, anti-phi
 
 сырые тексты сначала появляются в [телеграм-канале](https://t.me/sans_merde)
 
-{% include archive.html %}
-
