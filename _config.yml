@@ -38,6 +38,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-titles-from-headings
 
 titles_from_headings:
   strip_title: true
@@ -49,6 +50,7 @@ defaults:
       type: post
     values:
       tags: Other
+      strip_title: true
 
 header_pages:
   - archive.md
