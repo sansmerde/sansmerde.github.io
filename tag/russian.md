@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: russian"
+title: "tag: russian"
 tag: russian
 ---
