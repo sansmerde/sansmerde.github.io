@@ -43,6 +43,7 @@ plugins:
 
 tag_page_layout: tag
 tag_page_dir: blog/tags
+tag_permalink_style: pretty
 
 titles_from_headings:
   enabled:     true
