@@ -54,7 +54,6 @@ defaults:
       path: ""
       type: post
     values:
-    # tags: Other
       strip_title: true
 
 header_pages:
