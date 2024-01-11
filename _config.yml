@@ -28,6 +28,9 @@ theme: "minima"
 
 rss: rss
 
+google_analytics:
+  - G-Y2K75XNM3T
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
