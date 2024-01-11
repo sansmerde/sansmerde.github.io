@@ -1,5 +1,5 @@
 {% assign rawtags = "" %}
-{% for post in _posts %}
+{% for post in site.posts %}
   {% assign ttags = post.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
