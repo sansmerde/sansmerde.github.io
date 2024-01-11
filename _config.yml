@@ -39,6 +39,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-tagging
+
+tag_page_layout: tag
+tag_page_dir: blog/tags
 
 titles_from_headings:
   enabled:     true
