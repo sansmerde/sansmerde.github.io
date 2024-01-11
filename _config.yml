@@ -51,7 +51,7 @@ plugins:
 titles_from_headings:
   enabled:     true
   strip_title: true
-  #collections: true
+  collections: true
 
 defaults:
   - scope:
@@ -62,5 +62,6 @@ defaults:
 
 header_pages:
   - archive.md
+  - tag_cloud.md
  
 
