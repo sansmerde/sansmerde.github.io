@@ -35,18 +35,18 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
 
-gems:
-- jekyll/tagging
+#gems:
+#- jekyll/tagging
     
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-titles-from-headings
-  - jekyll-tagging
+#  - jekyll-tagging
 
-tag_page_layout: tag
-tag_page_dir: blog/tags
-tag_permalink_style: pretty
+#tag_page_layout: tag
+#tag_page_dir: blog/tags
+#tag_permalink_style: pretty
 
 titles_from_headings:
   enabled:     true
