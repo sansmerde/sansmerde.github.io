@@ -48,10 +48,6 @@ plugins:
 #tag_page_dir: blog/tags
 #tag_permalink_style: pretty
 
-collections:
- tags:
-  output: true
-
 titles_from_headings:
   enabled:     true
   strip_title: true
@@ -66,6 +62,5 @@ defaults:
 
 header_pages:
   - archive.md
-  - tag_page.html
  
 
