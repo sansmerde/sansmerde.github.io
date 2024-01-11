@@ -27,6 +27,8 @@ layout: default
     {% include navlinks.html %}
   </div>
 
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
   <span>[
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
@@ -34,5 +36,4 @@ layout: default
     {% endfor %}
   ]</span>
 
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
