@@ -62,6 +62,6 @@ defaults:
 
 header_pages:
   - archive.md
-  - tag_cloud.md
+  - tags.md
  
 
