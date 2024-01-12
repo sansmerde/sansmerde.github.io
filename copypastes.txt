@@ -12,6 +12,7 @@ tag:
 ---
 layout: post
 title: 
+author:
 description: 
 tags: 
 ---
