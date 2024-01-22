@@ -16,3 +16,16 @@ author:
 description: 
 tags: 
 ---
+
+## pic layout:
+
+[![name]( image link 'cursor name')](hyperlink on click)
+
+#########
+
+[![homepage][1]][2]
+
+[1]:  image link
+[2]:  site link "Shame and Misery: A Materialist History of Gay Politics"
+
+#########
