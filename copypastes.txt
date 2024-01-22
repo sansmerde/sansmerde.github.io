@@ -28,6 +28,8 @@ tags:
 |:-:|:-:|
 |![First Image](first link)|![Second Image](second link)|
 
+<img align="left" width="533" height="300" src="image link">
+
 ## vid layout:
 
 ### Youtube Video: Life as an Engineer - WFH
