@@ -5,9 +5,9 @@ tags: russian english links activism antifa critique epistemology philosophy pol
 
 ## other good content
 
-#### Мои рекомендации для ideological diversions и knowledge sharing. На русском и in english
+## Мои рекомендации для ideological diversions и knowledge sharing. На русском и in english
 
-<mark>**YouTube:**</mark>
+### YouTube:
 
 **базовый пакет / starter package:**
 
