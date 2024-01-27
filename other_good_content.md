@@ -35,7 +35,7 @@ tags:
 
   Мастистый и точно взвешенный видео-эссеист из UK, который снимает расследования и анализ деятельности разных наци, например, откуда растут ноги у Джоан Роулинг, Эндрю Тейта, Стивена Краудера и других. Возможно, он tankie, надо проверить.
 
-  A savvy and accurate video essayist from the UK, who films investigations of the activities of various Nazis, for example, what's behind JK Rowling, Andrew Tate, Steven Crowder and others. Perhaps he is a tankie, beware. I yet need to check that.
+  A savvy and accurate video essayist from the UK, who does investigations of the activities of various Nazis, for example, what's behind JK Rowling, Andrew Tate, Steven Crowder and others. Perhaps he is a tankie, beware. I yet need to check that.
 
 - [Hbomberguy](https://www.youtube.com/@hbomberguy)
   
