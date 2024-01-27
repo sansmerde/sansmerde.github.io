@@ -3,7 +3,7 @@ layout: post
 title: 
 author:
 description: 
-tags: russian english links activism antifa critique epistemology philosophy politics practices queer
+tags: russian, english, links, activism, antifa, critique, epistemology, philosophy, politics, practices, queer
 ---
 
 ## other good content
