@@ -5,7 +5,7 @@ tags:
 
 ## other good content
 
-## Мои рекомендации для ideological diversions и knowledge sharing. На русском и in english
+## My recommendations for ideological diversions и knowledge sharing. На русском и in english
 
 ---
 
