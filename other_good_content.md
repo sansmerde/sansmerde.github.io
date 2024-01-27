@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: russian english links activism antifa critique epistemology philosophy politics practices queer
+tags: 
 ---
 
 ## other good content
