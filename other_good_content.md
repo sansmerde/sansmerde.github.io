@@ -54,6 +54,7 @@ tags:
 *!I think it’s best to scite these channels, for example, on the topic of Jordan Peterson, a popular far-right “psychologist” who criticizes what he calls “postmodernism” and “cultural Marxism.” In fact, he tries to "debunk" progressive ideas by creating caricatures of such ideas and using conspiracy theories. Even a basic understanding of philosophy and political theory is enough to destroy his arguments and intimidations. This is of much use.*
 
 
+
 **более развлекательный базовый пакет / entertainment starter package:**
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
