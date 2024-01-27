@@ -14,6 +14,7 @@ tags: russian english links activism antifa critique epistemology philosophy pol
 - [Contrapoints](https://www.youtube.com/@ContraPoints)
   
   Умная, блистательная, загадочная... Наверное, главный gatekeeping drug для тех, кто переходит из право-консервативных в лево-либеральные. На меня она очень сильно повлияла в своё время и, наверное, повлияла на многих близких мне людей.
+  
   Smart, brilliant, mysterious... Probably the main gatekeeping drug for those who move from right-wing conservative to left-liberal. She has greatly influenced me in the past and probably also has influenced many people close to me.
 
 - [Jonas Čeika - CCK Philosophy](https://www.youtube.com/@jonasceikaCCK)
