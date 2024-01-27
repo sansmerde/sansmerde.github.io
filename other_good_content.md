@@ -11,7 +11,7 @@ tags: russian english links activism antifa critique epistemology philosophy pol
 
 ---
 
-### Youtube
+### YouTube
 
 **базовый пакет / starter package:**
 
