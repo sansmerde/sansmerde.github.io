@@ -29,7 +29,7 @@ tags:
   
   Если нужно менее зубодробительный и более развлекательный канал про философию, вот он! Эбигейл Торн, мне кажется, соревнуется с Контрапойнтс в качестве и внушительности арт-дирекшин (и уже давно выигрывает...). Шикарные костюмы, шикарный мейкап, шикарные интерьеры, шикарный монтаж. Мне не очень нравится её смотреть, на мой вкус она слишком всё разжёвывает и делает слишком театральные ходы. Но вам, может быть, того и надо.
 
-  If you need a less toothsome and more entertaining channel about philosophy, here it is! Abigail Thorne, as it seems, competes with Contrapoints in quality and impressiveness of art direction (and has been winning for a long time...). Gorgeous costumes, gorgeous make-up, gorgeous interiors, and gorgeous editing. I don’t really like watching her,as for my taste she dumbs everything down too much and makes too many theatrical moves. But maybe that's what you need.
+  If you need a less toothsome and more entertaining channel about philosophy, here it is! Abigail Thorne, as it seems, competes with Contrapoints in quality and impressiveness of art direction (and has been winning for a long time...). Gorgeous costumes, gorgeous make-up, gorgeous interiors, and gorgeous editing. I don’t really like watching her, as for my taste, she dumbs everything down too much and makes too many theatrical moves. But maybe that's what you need.
 
 - [Shaun](https://www.youtube.com/@Shaun_vids)
 
