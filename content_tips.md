@@ -11,7 +11,7 @@ tags:
 
 ### YouTube
 
-**базовый пакет / starter package:**
+**базовый н / starter package:**
 
 - [Contrapoints](https://www.youtube.com/@ContraPoints)
   
