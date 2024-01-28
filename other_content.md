@@ -3,7 +3,7 @@ layout: post
 tags: 
 ---
 
-## other good content
+## other content
 
 ## My recommendations for ideological diversions и knowledge sharing. На русском и in english
 
