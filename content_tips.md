@@ -3,7 +3,7 @@ layout: post
 tags: 
 ---
 
-## other content
+## content tips
 
 ## My recommendations for ideological diversions и knowledge sharing. На русском и in english
 
@@ -11,7 +11,7 @@ tags:
 
 ### YouTube
 
-**базовый н / starter package:**
+**базовый список / starter package:**
 
 - [Contrapoints](https://www.youtube.com/@ContraPoints)
   
@@ -55,7 +55,7 @@ tags:
 
 
 
-**более развлекательный базовый пакет / entertainment starter package:**
+**развлекательные каналы / entertainment channels:**
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
  
@@ -88,7 +88,7 @@ tags:
   I don’t know exactly who they are and where they are hailing from, but if you like scary tales about dwarves (I do), you will find on this channel a cozy, quiet storytelling about creating terrifying but instructive events in Dwarf Fortress.
 
 
-**продвинутый пакет! активист_ки, освещающие актуальные проблемы масс-медиа / advanced package! activists covering current mass media:**
+**продвинутый список! активист_ки, освещающие актуальные проблемы масс-медиа / advanced package! activists covering current mass media:**
 
 *Может, это глупо, но выше в "базовом" списке я не пишу идентичности и pronouns, чтобы, если вы куда-то зарепостили, не спугнуть тех, на кого это всё должно быть нацелено. Дальше всё честь по чести.*
 
