@@ -63,6 +63,6 @@ defaults:
 header_pages:
   - archive.md
   - tags.md
-  - other_good_content.md
+  - other_content.md
  
 
