@@ -23,7 +23,7 @@ tags:
 
   Если бы я десять лет назад сел и посмотрел подряд его видео, это бы буквально спасло мою жизнь. Ещё этот канал - очень хороший учебник по философии, и доступный, и совсем не поверхностный, по крайней мере, я так думаю.
 
-  If I had sat down and watched his videos back to back ten years ago, it would have literally saved my life. Besides, this channel is a very good textbook on philosophy, accessible and not at all superficial, at least in my opinion.  
+  If I had sat down and watched his videos back to back ten years ago, it would have literally saved my life. Beside that, this channel is a very good textbook on philosophy, accessible and not at all superficial, at least in my opinion.  
 
 - [PhilosophyTube](https://www.youtube.com/@PhilosophyTube)
   
