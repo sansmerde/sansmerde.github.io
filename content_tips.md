@@ -11,7 +11,7 @@ tags:
 
 ### YouTube
 
-**базовый список / starter package:**
+**с чего начать / starter package:**
 
 - [Contrapoints](https://www.youtube.com/@ContraPoints)
   
@@ -55,40 +55,7 @@ tags:
 
 
 
-**развлекательные каналы / entertainment channels:**
-
-- [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
- 
-  Добродушные и аккуратно сделанные познавательные мультфильмы про астрономию, физику, биологию и "что там ещё мальчики любят". При просмотре постепенно показывается, какие экологические, политические и социальные проблемы очень скоро и очень больно ударят по человечеству. Автор_ки канала в некоторых случаях прямо маскируют thumbnails под консервативную позицию, чтобы люди с такой позицией кликали...
-
-  Good-natured and neatly made educational cartoons about astronomy, physics, biology and “what else boys love.” As you watch, the material of the vids gradually reveals what environmental, political and social problems will very soon and very painfully hit humanity. In some cases, channel authors disguise their thumbnails as conservative talking points so that conservatives click on them...
-
-- [Laura Kampf](https://www.youtube.com/@laurakampf)
-  
-  Весёлая и энергичная лесбиянка среднего возраста из Германии, мастер_ка на все руки, которая снимает видео про свои изобретения и проекты. Я очень слежу за её серией видео про реставрацию старого дома, который она купила во время ковида. Никаких политических заявлений она обычно не делает, это "нейтральный" развлекательный и познавательный контент для широкой публики. Но! Она старается всё делать экологично, ответственно и инклюзивно. Ещё постепенно становится ясно, что она растяпа и склонна на бегу принимать решения, из-за которых потом страдает (это главная драма, которая меня удерживает у экрана - как она выкрутится на этот раз...).
-
-  A cheerful and energetic middle-aged lesbian from Germany. She's a handywoman who makes videos about her inventions and projects. I've been closely following her series about restoring an old house she bought during Covid. She usually does not make any political statements; this is “neutral” entertaining and educational content for the general public. But! She tries to do everything environmentally-friendly, responsibly and inclusively. Also, it gradually becomes clear that she is a bungler and tends to make decisions on the run to later suffer the consequences (this is the main drama that keeps me hooked - how will she get out of the trouble this time...).
-
-- [Simone Giertz](https://www.youtube.com/@simonegiertz)
-
-  Известная изобретательница, родилась в Швеции, живёт в США. Точнее, я бы сказал, она маскируется под изобретательницу. Вообще-то ей нравится снимать видео про себя и про то, как она живёт, но она это упаковывает в ролики про создание каких-нибудь бесполезных предметов. 
-
-  Famous inventor, born in Sweden, lives in the USA. On second thought, I would say she is masquerading as an inventor. Actually, she likes to make videos about herself and the ways she lives, but she packages it into videos about creating some useless/usefull objects.
-
-- [Call Me Kevin:](https://www.youtube.com/@CallMeKevin)
-  
-  Кевин, наверное, единственный крупный не-токсичный не-мачистский геймер-ютубер, которого я знаю. Поддерживает Палестину! И иногда рассказывает про разные свои проблемы и занятия, нарратив в которых, я думаю, "без слов" противостоит правым взглядам на маскулинность. Я люблю у него видео про Minecraft, Project Zomboid, ещё у него великолепные серии по Sims и GTA V Online.
-
-  Kevin is probably the only big non-toxic non-macho gaming YouTuber I know. Supports Palestine! And sometimes he talks about his various problems and activities, the narrative in which, I think, silently confronts right-wing views on masculinity. I love his videos about Minecraft, Project Zomboid, he also has great series on The Sims and GTA V Online.
-
-- [Hoodie Hair](https://www.youtube.com/@hoodiehair)
-
-  Не знаю точно, кто это и откуда, но если вам нравятся страшные сказки про гномов (мне нравятся..), найдёте на этом канале уютный тихий storytelling про создание ужасающих, но поучительных ситуаций в Dwarf Fortress. 
-
-  I don’t know exactly who they are and where they are hailing from, but if you like scary tales about dwarves (I do), you will find on this channel a cozy, quiet storytelling about creating terrifying but instructive events in Dwarf Fortress.
-
-
-**продвинутый список! активист_ки, освещающие актуальные проблемы масс-медиа / advanced package! activists covering current mass media:**
+**другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:**
 
 *Может, это глупо, но выше в "базовом" списке я не пишу идентичности и pronouns, чтобы, если вы куда-то зарепостили, не спугнуть тех, на кого это всё должно быть нацелено. Дальше всё честь по чести.*
 
@@ -135,6 +102,40 @@ tags:
   Анархистка и философиня, белая трансгендерная женщина, она/её. Честно говоря, с её работами я не очень знаком, но думаю это скоро исправить. У неё большой архив видео! 
 
   White trans woman, she/her. She's an anarchist and a philosopher. To be honest, I’m not very familiar with her work, but I think that will be fixed soon. She has a large backlog!
+
+
+
+**развлекательные каналы / entertainment channels:**
+
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
+ 
+  Добродушные и аккуратно сделанные познавательные мультфильмы про астрономию, физику, биологию и "что там ещё мальчики любят". При просмотре постепенно показывается, какие экологические, политические и социальные проблемы очень скоро и очень больно ударят по человечеству. Автор_ки канала в некоторых случаях прямо маскируют thumbnails под консервативную позицию, чтобы люди с такой позицией кликали...
+
+  Good-natured and neatly made educational cartoons about astronomy, physics, biology and “what else boys love.” As you watch, the material of the vids gradually reveals what environmental, political and social problems will very soon and very painfully hit humanity. In some cases, channel authors disguise their thumbnails as conservative talking points so that conservatives click on them...
+
+- [Laura Kampf](https://www.youtube.com/@laurakampf)
+  
+  Весёлая и энергичная лесбиянка среднего возраста из Германии, мастер_ка на все руки, которая снимает видео про свои изобретения и проекты. Я очень слежу за её серией видео про реставрацию старого дома, который она купила во время ковида. Никаких политических заявлений она обычно не делает, это "нейтральный" развлекательный и познавательный контент для широкой публики. Но! Она старается всё делать экологично, ответственно и инклюзивно. Ещё постепенно становится ясно, что она растяпа и склонна на бегу принимать решения, из-за которых потом страдает (это главная драма, которая меня удерживает у экрана - как она выкрутится на этот раз...).
+
+  A cheerful and energetic middle-aged lesbian from Germany. She's a handywoman who makes videos about her inventions and projects. I've been closely following her series about restoring an old house she bought during Covid. She usually does not make any political statements; this is “neutral” entertaining and educational content for the general public. But! She tries to do everything environmentally-friendly, responsibly and inclusively. Also, it gradually becomes clear that she is a bungler and tends to make decisions on the run to later suffer the consequences (this is the main drama that keeps me hooked - how will she get out of the trouble this time...).
+
+- [Simone Giertz](https://www.youtube.com/@simonegiertz)
+
+  Известная изобретательница, родилась в Швеции, живёт в США. Точнее, я бы сказал, она маскируется под изобретательницу. Вообще-то ей нравится снимать видео про себя и про то, как она живёт, но она это упаковывает в ролики про создание каких-нибудь бесполезных предметов. 
+
+  Famous inventor, born in Sweden, lives in the USA. On second thought, I would say she is masquerading as an inventor. Actually, she likes to make videos about herself and the ways she lives, but she packages it into videos about creating some useless/usefull objects.
+
+- [Call Me Kevin:](https://www.youtube.com/@CallMeKevin)
+  
+  Кевин, наверное, единственный крупный не-токсичный не-мачистский геймер-ютубер, которого я знаю. Поддерживает Палестину! И иногда рассказывает про разные свои проблемы и занятия, нарратив в которых, я думаю, "без слов" противостоит правым взглядам на маскулинность. Я люблю у него видео про Minecraft, Project Zomboid, ещё у него великолепные серии по Sims и GTA V Online.
+
+  Kevin is probably the only big non-toxic non-macho gaming YouTuber I know. Supports Palestine! And sometimes he talks about his various problems and activities, the narrative in which, I think, silently confronts right-wing views on masculinity. I love his videos about Minecraft, Project Zomboid, he also has great series on The Sims and GTA V Online.
+
+- [Hoodie Hair](https://www.youtube.com/@hoodiehair)
+
+  Не знаю точно, кто это и откуда, но если вам нравятся страшные сказки про гномов (мне нравятся..), найдёте на этом канале уютный тихий storytelling про создание ужасающих, но поучительных ситуаций в Dwarf Fortress. 
+
+  I don’t know exactly who they are and where they are hailing from, but if you like scary tales about dwarves (I do), you will find on this channel a cozy, quiet storytelling about creating terrifying but instructive events in Dwarf Fortress.
 
 ---
 
