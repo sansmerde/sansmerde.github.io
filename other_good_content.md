@@ -17,7 +17,7 @@ tags:
   
   Умная, блистательная, загадочная... Натали Винн, наверное, главный gatekeeping drug для тех, кто переходит из право-консервативных в лево-либеральные. На меня она очень сильно повлияла в своё время и, наверное, повлияла на многих близких мне людей.
   
-  Smart, brilliant, mysterious... Natalie Wynn is probably the main gatekeeping drug for those who move from right-wing conservative to left-liberal. She has greatly influenced me in the past and probably also has influenced many people close to me.
+  Smart, brilliant, mysterious... Natalie Wynn is probably the main gatekeeping drug for those who move from right-wing conservative to left-wing progressive. She has greatly influenced me in the past and probably also has influenced many people close to me.
 
 - [Jonas Čeika - CCK Philosophy](https://www.youtube.com/@jonasceikaCCK)
 
