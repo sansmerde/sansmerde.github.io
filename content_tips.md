@@ -109,9 +109,9 @@ tags:
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
  
-  Добродушные и аккуратно сделанные познавательные мультфильмы про астрономию, физику, биологию и "что там ещё мальчики любят". При просмотре постепенно показывается, какие экологические, политические и социальные проблемы очень скоро и очень больно ударят по человечеству. Автор_ки канала в некоторых случаях прямо маскируют thumbnails под консервативную позицию, чтобы люди с такой позицией кликали...
+  Добродушные и аккуратно сделанные познавательные мультфильмы про астрономию, физику, биологию и "что там ещё мальчики любят". При просмотре постепенно показывается, какие экологические, политические и социальные проблемы очень скоро и очень больно ударят по человечеству. Автор_ки канала в некоторых случаях прямо маскируют thumbnails под консервативную позицию, чтобы люди с такой позицией кликали... К сожалению, автор_ки позитивист_ки, но надо где-то начинать.
 
-  Good-natured and neatly made educational cartoons about astronomy, physics, biology and “what else boys love.” As you watch, the material of the vids gradually reveals what environmental, political and social problems will very soon and very painfully hit humanity. In some cases, channel authors disguise their thumbnails as conservative talking points so that conservatives click on them...
+  Good-natured and neatly made educational cartoons about astronomy, physics, biology and “what else boys love.” As you watch, the material of the vids gradually reveals what environmental, political and social problems will very soon and very painfully hit humanity. In some cases, channel authors disguise their thumbnails as conservative talking points so that conservatives click on them... Unfortunately, the authors are positivists, but you have to start somewhere.
 
 - [Laura Kampf](https://www.youtube.com/@laurakampf)
   
