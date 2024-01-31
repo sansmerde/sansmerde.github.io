@@ -10,6 +10,7 @@ tags:
 ---
 ## YouTube
 
+#### перейти к разделу:
 - [с чего начать / starter package](#starter-package)
 - [другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media](#other-activists)
 - [развлекательные каналы / entertainment channels:](#entertainment-channels)
