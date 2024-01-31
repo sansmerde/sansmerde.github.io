@@ -18,7 +18,8 @@ tags:
 
 ## heading link:
 
-[link name](#heading name)
+### My Great Heading {#custom-id}
+[link name](#custom-id)
 
 ## pic layout:
 
