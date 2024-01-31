@@ -10,7 +10,11 @@ tags:
 ---
 ## YouTube
 
-### с чего начать / starter package:
+- [с чего начать / starter package](#starter-package)
+- [другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media](#other-activists)
+- [развлекательные каналы / entertainment channels:](#entertainment-channels)
+
+### с чего начать / starter package: {#starter-package}
 
 - [Contrapoints](https://www.youtube.com/@ContraPoints)
   
@@ -54,7 +58,7 @@ tags:
 
 
 
-#### другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:
+#### другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media: {#other-activists}
 
 *Может, это глупо, но выше в "базовом" списке я не пишу идентичности и pronouns, чтобы, если вы куда-то зарепостили, не спугнуть тех, на кого это всё должно быть нацелено. Дальше всё честь по чести.*
 
@@ -104,7 +108,7 @@ tags:
 
 
 
-#### развлекательные каналы / entertainment channels:
+#### развлекательные каналы / entertainment channels: {#entertainment-shannels}
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
  
