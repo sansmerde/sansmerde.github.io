@@ -137,6 +137,12 @@ tags:
 
   I don’t know exactly who they are and where they are hailing from, but if you like scary tales about dwarves (I do), you will find on this channel a cozy, quiet storytelling about creating terrifying but instructive events in Dwarf Fortress.
 
+- [apetor](https://www.youtube.com/@apetor)
+
+  С тех пор как Тор погиб, я не могу смотреть его видео. Но, наверное, вы можете. По крайней мере, я думаю, мало кому удалось остаться верным своему искусству и получить признание при жизни, и с таким надо знакомиться. Leave camp tidy and nice.
+
+  Since Tor died, I haven't been able to watch his videos. But you probably can. At least, I think, few people managed to stay true to their art and still gain recognition during their lifetime, and you need to get acquainted with the work of such people. Leave camp tidy and nice.
+
 ---
 
 Простите, на этом пока всё. Я буду постепенно добавлять ещё ссылки на видео, книги, аккаунты, музыку и разные другие вещи.
