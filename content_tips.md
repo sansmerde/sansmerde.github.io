@@ -8,10 +8,13 @@ tags:
 ## My recommendations for ideological diversions и knowledge sharing. На русском и in english
 
 ---
-
 ### YouTube
 
-**с чего начать / starter package:**
+[с чего начать / starter package:](#### с чего начать / starter package:)
+[другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:](#### другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:)
+[развлекательные каналы / entertainment channels:](#### развлекательные каналы / entertainment channels:)
+
+#### с чего начать / starter package:
 
 - [Contrapoints](https://www.youtube.com/@ContraPoints)
   
@@ -55,7 +58,7 @@ tags:
 
 
 
-**другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:**
+#### другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:
 
 *Может, это глупо, но выше в "базовом" списке я не пишу идентичности и pronouns, чтобы, если вы куда-то зарепостили, не спугнуть тех, на кого это всё должно быть нацелено. Дальше всё честь по чести.*
 
@@ -105,7 +108,7 @@ tags:
 
 
 
-**развлекательные каналы / entertainment channels:**
+#### развлекательные каналы / entertainment channels:
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
  
