@@ -14,7 +14,7 @@ tags:
 [другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:](#### другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:)
 [развлекательные каналы / entertainment channels:](#### развлекательные каналы / entertainment channels:)
 
-[test:](### test:)
+[test](### test)
 
 ### test / test:
 
