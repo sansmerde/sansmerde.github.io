@@ -1,4 +1,4 @@
 
-- [heading name](#heading)
+- [heading name](#heading name)
 
-#heading
+#heading name
