@@ -8,13 +8,13 @@ tags:
 ## My recommendations for ideological diversions и knowledge sharing. На русском и in english
 
 ---
-### YouTube
+## YouTube
 
-[с чего начать / starter package:](#### с чего начать / starter package:)
+[с чего начать / starter package:](### с чего начать / starter package:)
 [другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:](#### другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media:)
 [развлекательные каналы / entertainment channels:](#### развлекательные каналы / entertainment channels:)
 
-#### с чего начать / starter package:
+### с чего начать / starter package:
 
 - [Contrapoints](https://www.youtube.com/@ContraPoints)
   
