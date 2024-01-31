@@ -109,7 +109,7 @@ tags:
 
 
 
-#### развлекательные каналы / entertainment channels: {#entertainment-shannels}
+#### развлекательные каналы / entertainment channels: {#entertainment-сhannels}
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
  
