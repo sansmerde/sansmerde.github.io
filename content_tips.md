@@ -59,7 +59,7 @@ tags:
 
 
 
-#### другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media: {#other-activists}
+### другие квир-активист_ки, освещающие актуальные проблемы масс-медиа /other queer ctivists covering current mass media: {#other-activists}
 
 *Может, это глупо, но выше в "базовом" списке я не пишу идентичности и pronouns, чтобы, если вы куда-то зарепостили, не спугнуть тех, на кого это всё должно быть нацелено. Дальше всё честь по чести.*
 
@@ -109,7 +109,7 @@ tags:
 
 
 
-#### развлекательные каналы / entertainment channels: {#entertainment-сhannels}
+### развлекательные каналы / entertainment channels: {#entertainment-сhannels}
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
  
